@@ -1,0 +1,13 @@
+{
+  "name": "@amgsus/hub-discovery",
+  "version": "0.0.1",
+  "description": "Discovery server for Hub",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node ./index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "A.G.",
+  "license": "MIT"
+}
